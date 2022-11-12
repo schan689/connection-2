@@ -1,0 +1,4 @@
+mkdir myfolder
+touch sarah.txt
+echo "woof woof" > kitty.txt
+cat filename.txt
